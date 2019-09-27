@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trending Repositories</string>
+    <string name="repo_name_tv">NAME OF THE REPOSITORY</string>
+    <string name="author_name_tv">Author Name</string>
+    <string name="repo_desc_tv">Description Goes Here</string>
+    <string name="repository_avatar">Repository Avatar</string>
+    <string name="KEY1">SAVEDDATA</string>
+    <string name="KEY2">RVPOS</string>
+</resources>
